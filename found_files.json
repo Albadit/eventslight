@@ -1,0 +1,3736 @@
+{
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\account_audit_trail\\models\\mail_message.py": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\af.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\am.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\ar.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\auth_signup.pot": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\az.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\bg.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\bs.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\ca.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\cs.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\da.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\de.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\el.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\es.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\es_419.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\es_CL.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\et.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\eu.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\fa.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\fi.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\fo.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\fr.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\fr_BE.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\fr_CA.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\gl.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\gu.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\he.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\hr.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\hu.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\hy.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\id.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\is.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\it.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\ja.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\ka.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\kab.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\km.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\ko.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\lb.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\lo.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\lt.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\lv.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\mk.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\mn.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\nb.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\ne.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\nl.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\pl.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\pt.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\pt_BR.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\ro.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\ru.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\sk.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\sl.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\sq.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\sr.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\sr@latin.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\sv.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\th.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\tr.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\uk.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\vi.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\zh_CN.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\i18n\\zh_TW.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\auth_signup\\views\\res_users_views.xml": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import\\i18n\\ar.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import\\i18n\\base_import.pot": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import\\i18n\\bg.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import\\i18n\\ca.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import\\i18n\\cs.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import\\i18n\\da.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import\\i18n\\de.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import\\i18n\\el.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import\\i18n\\es.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import\\i18n\\es_419.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import\\i18n\\et.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import\\i18n\\fa.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import\\i18n\\fi.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import\\i18n\\fr.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import\\i18n\\he.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import\\i18n\\hu.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import\\i18n\\hy.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import\\i18n\\id.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import\\i18n\\is.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import\\i18n\\it.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import\\i18n\\ja.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import\\i18n\\ko.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import\\i18n\\lt.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import\\i18n\\lv.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import\\i18n\\nb.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import\\i18n\\nl.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import\\i18n\\pl.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import\\i18n\\pt.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import\\i18n\\pt_BR.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import\\i18n\\ro.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import\\i18n\\ru.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import\\i18n\\sk.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import\\i18n\\sl.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import\\i18n\\sr.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import\\i18n\\sv.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import\\i18n\\th.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import\\i18n\\tr.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import\\i18n\\uk.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import\\i18n\\vi.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import\\i18n\\zh_CN.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import\\i18n\\zh_TW.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import\\static\\src\\import_data_sidepanel\\import_data_sidepanel.xml": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\i18n\\ar.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\i18n\\base_import_module.pot": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\i18n\\bg.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\i18n\\ca.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\i18n\\cs.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\i18n\\da.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\i18n\\de.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\i18n\\el.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\i18n\\es.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\i18n\\es_419.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\i18n\\et.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\i18n\\fa.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\i18n\\fi.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\i18n\\fr.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\i18n\\he.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\i18n\\hu.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\i18n\\hy.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\i18n\\id.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\i18n\\is.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\i18n\\it.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\i18n\\ja.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\i18n\\ko.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\i18n\\lt.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\i18n\\lv.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\i18n\\nb.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\i18n\\nl.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\i18n\\pl.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\i18n\\pt.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\i18n\\pt_BR.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\i18n\\ro.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\i18n\\ru.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\i18n\\sk.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\i18n\\sl.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\i18n\\sr.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\i18n\\sv.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\i18n\\th.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\i18n\\tr.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\i18n\\uk.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\i18n\\vi.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\i18n\\zh_CN.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\i18n\\zh_TW.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\models\\ir_module.py": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_import_module\\models\\__pycache__\\ir_module.cpython-310.pyc": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\__init__.py": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\data\\mail_template_data.xml": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\i18n\\ar.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\i18n\\base_install_request.pot": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\i18n\\bg.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\i18n\\ca.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\i18n\\cs.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\i18n\\da.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\i18n\\de.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\i18n\\el.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\i18n\\es.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\i18n\\es_419.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\i18n\\et.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\i18n\\fa.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\i18n\\fi.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\i18n\\fr.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\i18n\\he.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\i18n\\hu.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\i18n\\hy.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\i18n\\id.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\i18n\\is.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\i18n\\it.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\i18n\\ja.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\i18n\\ko.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\i18n\\lt.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\i18n\\lv.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\i18n\\nb.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\i18n\\nl.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\i18n\\pl.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\i18n\\pt.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\i18n\\pt_BR.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\i18n\\ro.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\i18n\\ru.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\i18n\\sk.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\i18n\\sl.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\i18n\\sr.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\i18n\\sv.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\i18n\\th.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\i18n\\tr.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\i18n\\uk.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\i18n\\vi.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\i18n\\zh_CN.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\i18n\\zh_TW.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\base_install_request\\wizard\\base_module_install_request_views.xml": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\bus\\models\\bus.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\bus\\models\\ir_websocket.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\bus\\models\\__pycache__\\bus.cpython-310.pyc": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\bus\\static\\src\\workers\\websocket_worker.js": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\bus\\static\\tests\\bus_tests.js": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\bus\\static\\tests\\helpers\\websocket_event_deferred.js": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\bus\\tests\\common.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\bus\\tests\\test_websocket_caryall.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\crm\\data\\crm_lead_demo.xml": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\crm\\doc\\stage_status.rst": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\crm\\models\\crm_lead.py": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\crm\\tests\\test_crm_lead_convert.py": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\af.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\am.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\ar.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\az.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\bg.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\bs.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\ca.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\cs.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\da.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\de.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\delivery.pot": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\el.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\es.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\es_419.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\es_CL.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\et.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\eu.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\fa.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\fi.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\fo.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\fr.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\fr_CA.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\gl.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\gu.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\he.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\hr.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\hu.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\hy.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\id.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\is.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\it.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\ja.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\ka.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\kab.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\km.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\ko.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\lb.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\lo.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\lt.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\lv.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\mk.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\mn.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\nb.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\ne.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\nl.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\pl.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\pt.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\pt_BR.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\ro.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\ru.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\sk.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\sl.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\sq.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\sr.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\sr@latin.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\sv.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\th.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\tr.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\uk.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\vi.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\zh_CN.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\i18n\\zh_TW.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\delivery\\models\\delivery_carrier.py": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\digest\\models\\digest.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\digest\\models\\__pycache__\\digest.cpython-310.pyc": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\digest\\views\\digest_templates.xml": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\data\\event_demo.xml": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\data\\mail_template_data.xml": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\af.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\am.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\ar.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\az.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\bg.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\bs.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\ca.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\cs.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\da.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\de.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\el.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\es.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\es_419.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\es_CL.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\et.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\eu.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\event.pot": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\fa.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\fi.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\fo.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\fr.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\fr_BE.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\fr_CA.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\gl.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\gu.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\he.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\hr.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\hu.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\hy.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\id.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\is.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\it.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\ja.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\ka.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\kab.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\km.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\ko.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\lb.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\lo.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\lt.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\lv.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\mk.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\mn.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\nb.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\ne.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\nl.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\pl.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\pt.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\pt_BR.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\ro.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\ru.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\sk.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\sl.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\sq.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\sr.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\sr@latin.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\sv.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\th.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\tr.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\uk.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\vi.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\zh_CN.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\i18n\\zh_TW.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\models\\event_event.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\tests\\common.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\tests\\test_event_internals.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event\\tests\\test_event_mail_schedule.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\event_sms\\tests\\test_sms_schedule.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\README.md": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\af.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\am.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\ar.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\az.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\bg.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\bs.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\ca.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\cs.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\da.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\de.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\el.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\es.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\es_419.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\es_CL.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\et.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\eu.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\fa.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\fi.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\fo.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\fr.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\fr_BE.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\fr_CA.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\gl.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\gu.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\he.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\hr.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\hr.pot": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\hu.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\hy.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\id.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\is.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\it.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\ja.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\ka.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\kab.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\km.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\ko.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\lb.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\lo.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\lt.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\lv.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\mk.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\mn.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\nb.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\ne.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\nl.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\pl.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\pt.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\pt_BR.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\ro.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\ru.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\sk.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\sl.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\sq.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\sr.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\sr@latin.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\sv.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\th.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\tr.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\uk.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\vi.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\zh_CN.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\i18n\\zh_TW.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\models\\discuss_channel.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\models\\hr_department.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\models\\hr_employee.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\tests\\test_channel.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr\\views\\discuss_channel_views.xml": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr_holidays\\models\\hr_leave.py": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hr_holidays\\models\\hr_leave_allocation.py": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hw_drivers\\iot_handlers\\drivers\\KeyboardUSBDriver_L.py": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\hw_drivers\\iot_handlers\\drivers\\PrinterDriver_L.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\iap\\static\\src\\js\\insufficient_credit_error_handler.js": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\l10n_ar\\models\\account_move.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\l10n_ar\\models\\__pycache__\\account_move.cpython-310.pyc": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\l10n_be\\data\\template\\account.account-be.csv": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\l10n_be\\data\\template\\account.group-be.csv": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\l10n_ca\\data\\template\\account.account-ca_2023.csv": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\l10n_ca\\data\\template\\account.group-ca_2023.csv": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\l10n_cy\\data\\template\\account.account-cy.csv": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\l10n_fr\\data\\template\\account.account-fr.csv": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\l10n_fr_pos_cert\\__manifest__.py": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\l10n_hu_edi\\models\\l10n_hu_edi_connection.py": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\l10n_hu_edi\\tests\\mocked_requests\\manageAnnulment_response.xml": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\l10n_hu_edi\\tests\\mocked_requests\\manageInvoice_response.xml": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\l10n_hu_edi\\tests\\mocked_requests\\queryTransactionList_request.xml": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\l10n_hu_edi\\tests\\mocked_requests\\queryTransactionList_response.xml": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\l10n_hu_edi\\tests\\mocked_requests\\queryTransactionStatus_response.xml": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\l10n_hu_edi\\tests\\mocked_requests\\queryTransactionStatus_response_annulment_done.xml": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\l10n_hu_edi\\tests\\mocked_requests\\queryTransactionStatus_response_annulment_pending.xml": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\l10n_hu_edi\\tests\\mocked_requests\\queryTransactionStatus_response_error.xml": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\l10n_hu_edi\\tests\\mocked_requests\\queryTransactionStatus_response_original.xml": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\l10n_hu_edi\\tests\\mocked_requests\\queryTransactionStatus_response_warning.xml": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\l10n_hu_edi\\tests\\mocked_requests\\tokenExchange_response.xml": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\l10n_jp\\data\\template\\account.account-jp.csv": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\l10n_lu\\data\\account.account.tag.csv": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\l10n_lu\\data\\template\\account.account-lu.csv": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\l10n_lu\\data\\template\\account.group-lu.csv": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\l10n_lv\\Readme.txt": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\l10n_mn\\data\\template\\account.account-mn.csv": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\l10n_mt\\data\\template\\account.account-mt.csv": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\l10n_mx\\data\\template\\account.group-mx.csv": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\l10n_nl\\data\\template\\account.account-nl.csv": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\l10n_pt\\data\\template\\account.account-pt.csv": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\l10n_pt\\data\\template\\account.group-pt.csv": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\l10n_sk\\data\\template\\account.account-sk.csv": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\l10n_sk\\data\\template\\account.group-sk.csv": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\l10n_syscohada\\data\\template\\account.account-syscohada.csv": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\l10n_vn\\data\\template\\account.account-vn.csv": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\README.md": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\web_push.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\controllers\\thread.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\controllers\\__pycache__\\thread.cpython-310.pyc": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\data\\mail_templates_email_layouts.xml": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\af.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\am.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\ar.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\az.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\bg.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\bs.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\ca.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\cs.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\da.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\de.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\el.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\es.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\es_419.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\es_CL.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\et.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\eu.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\fa.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\fi.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\fo.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\fr.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\fr_CA.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\gl.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\gu.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\he.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\hr.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\hu.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\hy.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\id.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\is.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\it.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\ja.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\ka.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\kab.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\km.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\ko.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\lb.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\lo.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\lt.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\lv.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\mail.pot": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\mk.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\mn.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\nb.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\ne.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\nl.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\pl.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\pt.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\pt_BR.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\ro.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\ru.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\sk.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\sl.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\sq.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\sr.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\sr@latin.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\sv.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\th.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\tr.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\uk.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\vi.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\zh_CN.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\i18n\\zh_TW.po": [
+        "subscription",
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\models\\mail_activity.py": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\models\\mail_followers.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\models\\mail_message.py": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\models\\mail_message_subtype.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\models\\mail_thread.py": [
+        "subscription",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\models\\partner_devices.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\models\\update.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\models\\discuss\\discuss_channel.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\models\\discuss\\__pycache__\\discuss_channel.cpython-310.pyc": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\models\\__pycache__\\mail_activity.cpython-310.pyc": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\models\\__pycache__\\mail_followers.cpython-310.pyc": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\models\\__pycache__\\mail_message.cpython-310.pyc": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\models\\__pycache__\\mail_message_subtype.cpython-310.pyc": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\models\\__pycache__\\mail_thread.cpython-310.pyc": [
+        "subscription",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\models\\__pycache__\\partner_devices.cpython-310.pyc": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\models\\__pycache__\\update.cpython-310.pyc": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\static\\src\\service_worker.js": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\static\\src\\core\\common\\out_of_focus_service.js": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\static\\src\\core\\common\\thread_model.js": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\static\\src\\core\\common\\thread_service.js": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\static\\src\\core\\web\\follower_list.xml": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\static\\src\\core\\web\\follower_subtype_dialog.js": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\static\\src\\webclient\\web\\webclient.js": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\static\\tests\\crosstab\\crosstab_tests.js": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\static\\tests\\discuss\\core\\discuss_tests.js": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\static\\tests\\discuss\\core\\public_web\\discuss_tests.js": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\static\\tests\\discuss\\core\\web\\crosstab_tests.js": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\static\\tests\\discuss_app\\discuss_tests.js": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\static\\tests\\helpers\\model_definitions_setup.js": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\static\\tests\\helpers\\mock_server\\controllers\\discuss.js": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\static\\tests\\helpers\\mock_server\\models\\discuss_channel.js": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\static\\tests\\web\\follower_list_menu_tests.js": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\static\\tests\\web\\follower_subtype_tests.js": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\static\\tests\\web\\follower_tests.js": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\views\\mail_followers_views.xml": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\views\\mail_message_subtype_views.xml": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail\\views\\res_config_settings_views.xml": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\controllers\\portal.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\data\\mail_template_data.xml": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\i18n\\ar.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\i18n\\bg.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\i18n\\ca.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\i18n\\cs.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\i18n\\da.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\i18n\\de.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\i18n\\el.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\i18n\\es.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\i18n\\es_419.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\i18n\\et.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\i18n\\fa.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\i18n\\fi.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\i18n\\fr.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\i18n\\he.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\i18n\\hu.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\i18n\\hy.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\i18n\\id.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\i18n\\is.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\i18n\\it.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\i18n\\ja.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\i18n\\ko.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\i18n\\lt.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\i18n\\lv.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\i18n\\mail_group.pot": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\i18n\\nb.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\i18n\\nl.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\i18n\\pl.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\i18n\\pt.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\i18n\\pt_BR.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\i18n\\ro.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\i18n\\ru.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\i18n\\sk.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\i18n\\sl.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\i18n\\sr.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\i18n\\sv.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\i18n\\th.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\i18n\\tr.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\i18n\\uk.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\i18n\\vi.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\i18n\\zh_CN.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\i18n\\zh_TW.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\models\\mail_group.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mail_group\\views\\portal_templates.xml": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\__manifest__.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\controllers\\main.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\data\\mailing_subscription.xml": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\data\\mailing_subscription_optout.xml": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\demo\\mailing_subscription.xml": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\af.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\am.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\ar.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\az.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\bg.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\bs.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\ca.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\cs.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\da.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\de.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\el.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\es.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\es_419.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\es_CL.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\et.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\eu.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\fa.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\fi.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\fo.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\fr.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\fr_BE.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\fr_CA.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\gl.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\gu.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\he.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\hr.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\hu.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\hy.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\id.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\is.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\it.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\ja.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\ka.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\kab.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\km.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\ko.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\lb.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\lo.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\lt.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\lv.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\mass_mailing.pot": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\mk.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\mn.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\nb.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\ne.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\nl.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\pl.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\pt.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\pt_BR.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\ro.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\ru.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\sk.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\sl.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\sq.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\sr.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\sr@latin.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\sv.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\th.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\tr.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\uk.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\vi.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\zh_CN.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\i18n\\zh_TW.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\models\\mailing.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\models\\mailing_contact.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\models\\mailing_list.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\models\\mailing_subscription.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\models\\mailing_subscription_optout.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\models\\mail_blacklist.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\models\\res_config_settings.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\models\\__init__.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\security\\ir.model.access.csv": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\static\\src\\js\\mailing_portal_subscription.js": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\static\\src\\js\\mailing_portal_subscription_blocklist.js": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\static\\src\\js\\mailing_portal_subscription_feedback.js": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\static\\src\\js\\mailing_portal_subscription_form.js": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\static\\src\\xml\\mailing_portal_subscription_form.xml": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\static\\tests\\tours\\mailing_portal_unsubscribe_from_document.js": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\static\\tests\\tours\\mailing_portal_unsubscribe_from_list.js": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\static\\tests\\tours\\mailing_portal_unsubscribe_from_my.js": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\tests\\common.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\tests\\test_mailing_controllers.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\tests\\test_mailing_internals.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\tests\\test_mailing_list.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\views\\mailing_contact_views.xml": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\views\\mailing_menus.xml": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\views\\mailing_subscription_optout_views.xml": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\views\\mailing_subscription_views.xml": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\views\\mailing_templates_portal_unsubscribe.xml": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\views\\res_config_settings_views.xml": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing\\wizard\\mailing_contact_import.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing_sms\\__manifest__.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing_sms\\controllers\\main.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing_sms\\demo\\mailing_subscription.xml": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\mass_mailing_sms\\models\\mailing_list.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\membership\\tests\\test_membership.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\af.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\am.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\ar.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\az.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\bg.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\bs.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\ca.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\cs.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\da.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\de.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\el.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\es.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\es_419.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\es_CL.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\et.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\eu.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\fa.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\fi.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\fo.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\fr.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\fr_BE.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\fr_CA.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\gl.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\gu.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\he.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\hi.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\hr.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\hu.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\hy.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\id.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\is.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\it.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\ja.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\ka.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\kab.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\kk.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\km.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\ko.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\lb.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\lo.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\lt.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\lv.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\mk.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\mn.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\nb.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\ne.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\nl.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\payment.pot": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\pl.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\pt.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\pt_BR.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\ro.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\ru.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\sk.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\sl.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\sq.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\sr.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\sr@latin.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\sv.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\ta.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\th.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\tr.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\uk.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\vi.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\zh_CN.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\i18n\\zh_TW.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\models\\payment_provider.py": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\models\\__pycache__\\payment_provider.cpython-310.pyc": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\tests\\test_payment_provider.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\payment\\views\\payment_provider_views.xml": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\point_of_sale\\static\\src\\app\\main.js": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\point_of_sale\\tools\\posbox\\overwrite_after_init\\etc\\cups\\cupsd.conf": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\pos_self_order\\models\\pos_config.py": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\pos_self_order\\static\\src\\upgrade_selection_field.js": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\af.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\am.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\ar.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\az.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\bg.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\bs.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\ca.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\cs.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\da.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\de.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\el.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\es.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\es_419.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\es_CL.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\et.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\eu.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\fa.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\fi.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\fr.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\fr_BE.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\gl.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\gu.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\he.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\hr.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\hu.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\hy.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\id.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\is.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\it.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\ja.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\kab.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\km.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\ko.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\lb.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\lt.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\lv.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\mk.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\mn.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\nb.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\nl.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\pl.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\product.pot": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\pt.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\pt_BR.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\ro.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\ru.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\sk.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\sl.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\sr.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\sr@latin.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\sv.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\th.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\tr.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\uk.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\vi.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\zh_CN.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\i18n\\zh_TW.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\models\\product_product.py": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\models\\product_template.py": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product\\views\\product_views.xml": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\product_email_template\\models\\account_move.py": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\project\\doc\\stage_status.rst": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\project\\models\\project_task.py": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\project\\tests\\test_access_rights.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\project\\tests\\test_personal_stages.py": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sale\\models\\sale_order.py": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sale\\tests\\test_access_rights.py": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\af.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\am.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\ar.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\az.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\bg.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\bs.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\ca.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\cs.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\da.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\de.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\el.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\es.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\es_419.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\es_CL.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\et.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\eu.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\fa.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\fi.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\fo.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\fr.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\fr_BE.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\fr_CA.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\gl.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\gu.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\he.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\hi.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\hr.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\hu.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\hy.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\id.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\is.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\it.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\ja.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\ka.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\kab.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\km.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\ko.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\lb.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\lt.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\lv.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\mk.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\mn.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\nb.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\nl.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\pl.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\pt.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\pt_BR.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\ro.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\ru.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\sales_team.pot": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\sk.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\sl.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\sq.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\sr.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\sr@latin.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\sv.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\ta.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\th.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\tr.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\uk.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\vi.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\zh_CN.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\i18n\\zh_TW.po": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\models\\res_users.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sales_team\\models\\__pycache__\\res_users.cpython-310.pyc": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\sale_stock\\models\\account_move.py": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\spreadsheet\\static\\src\\o_spreadsheet\\o_spreadsheet.js": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\spreadsheet\\static\\src\\public_readonly_app\\main.js": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\i18n\\ar.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\i18n\\bg.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\i18n\\ca.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\i18n\\cs.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\i18n\\da.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\i18n\\de.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\i18n\\el.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\i18n\\es.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\i18n\\es_419.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\i18n\\et.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\i18n\\fa.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\i18n\\fi.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\i18n\\fr.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\i18n\\he.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\i18n\\hu.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\i18n\\hy.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\i18n\\id.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\i18n\\is.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\i18n\\it.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\i18n\\ja.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\i18n\\ko.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\i18n\\lt.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\i18n\\lv.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\i18n\\nb.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\i18n\\nl.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\i18n\\pl.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\i18n\\pt.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\i18n\\pt_BR.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\i18n\\ro.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\i18n\\ru.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\i18n\\sk.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\i18n\\sl.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\i18n\\sr.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\i18n\\stock.pot": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\i18n\\sv.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\i18n\\th.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\i18n\\tr.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\i18n\\uk.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\i18n\\vi.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\i18n\\zh_CN.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\i18n\\zh_TW.po": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\models\\stock_quant.py": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\models\\stock_rule.py": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\models\\__pycache__\\stock_quant.cpython-310.pyc": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\stock\\views\\stock_picking_type_views.xml": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\test_discuss_full\\tests\\test_performance.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\test_event_full\\data\\event_type_data.xml": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\test_event_full\\tests\\common.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\test_event_full\\tests\\test_event_mail.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\test_mail\\models\\test_mail_models.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\test_mail\\tests\\test_mail_followers.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\test_mail\\tests\\test_mail_mail.py": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\test_mail\\tests\\test_performance.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\test_mass_mailing\\tests\\test_mailing.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\utm\\models\\utm_mixin.py": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\utm\\models\\__pycache__\\utm_mixin.cpython-310.pyc": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\af.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\ar.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\az.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\bg.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\bn.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\bs.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\ca.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\cs.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\da.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\de.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\el.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\es.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\es_419.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\et.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\eu.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\fa.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\fi.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\fr.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\gl.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\gu.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\he.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\hi.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\hr.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\hu.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\hy.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\id.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\is.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\it.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\ja.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\ka.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\kab.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\km.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\ko.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\lb.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\lo.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\lt.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\lv.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\mk.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\mn.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\nb.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\nl.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\pl.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\pt.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\pt_BR.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\ro.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\ru.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\sk.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\sl.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\sr.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\sr@latin.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\sv.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\th.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\tr.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\uk.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\vi.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\web.pot": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\zh_CN.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\i18n\\zh_TW.po": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\static\\lib\\owl\\owl.js": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\static\\src\\start.js": [
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\static\\src\\core\\colors\\colors.js": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\static\\src\\core\\commands\\command_hook.js": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\static\\src\\core\\commands\\command_service.js": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\static\\src\\webclient\\clickbot\\clickbot.js": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\static\\src\\webclient\\navbar\\navbar.js": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\static\\src\\webclient\\navbar\\navbar.scss": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\static\\src\\webclient\\settings_form_view\\fields\\upgrade_boolean_field.js": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\static\\src\\webclient\\settings_form_view\\fields\\upgrade_dialog.xml": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\static\\src\\webclient\\settings_form_view\\highlight_text\\form_label_highlight_text.js": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\static\\src\\webclient\\settings_form_view\\highlight_text\\form_label_highlight_text.xml": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\static\\tests\\core\\reactive_tests.js": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\static\\tests\\core\\hotkeys\\hotkey_service_tests.js": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\static\\tests\\webclient\\settings_form_view\\settings_upgrade_boolean_field_tests.js": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\tooling\\disable.sh": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\tooling\\enable.sh": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\tooling\\refresh.sh": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web\\views\\webclient_templates.xml": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\website\\README.md": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\website\\__manifest__.py": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\website\\static\\src\\components\\burger_menu\\burger_menu.js": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\website_event_track\\models\\website_visitor.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\website_form_project\\__manifest__.py": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\website_hr_recruitment\\controllers\\main.py": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\website_hr_recruitment\\models\\hr_department.py": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\website_mail\\static\\src\\js\\follow.js": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\website_mass_mailing\\controllers\\main.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\website_mass_mailing\\static\\src\\js\\website_mass_mailing.js": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\website_mass_mailing_sms\\controllers\\main.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\website_mass_mailing_sms\\views\\snippets\\snippets_templates.xml": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\website_partner\\data\\website_partner_demo.xml": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\website_slides\\models\\res_users.py": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\website_slides\\models\\slide_channel.py": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\website_slides\\static\\src\\js\\public\\components\\slide_unsubscribe_dialog\\slide_unsubscribe_dialog.js": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\website_slides\\static\\src\\js\\public\\components\\slide_unsubscribe_dialog\\slide_unsubscribe_dialog.xml": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\website_slides\\tests\\test_security.py": [
+        "subscription",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\addons\\web_tour\\static\\src\\tour_service\\tour_utils.js": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\api.py": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\fields.py": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\http.py": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\models.py": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\data\\ir_module_module.xml": [
+        "subscription"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\af.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\am.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\ar.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\az.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\base.pot": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\bg.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\bs.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\ca.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\cs.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\da.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\de.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\el.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\es.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\es_419.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\es_CL.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\et.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\eu.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\fa.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\fi.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\fo.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\fr.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\fr_BE.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\fr_CA.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\gl.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\gu.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\he.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\hr.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\hu.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\hy.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\id.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\is.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\it.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\ja.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\ka.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\kab.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\km.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\ko.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\lb.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\lo.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\lt.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\lv.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\mk.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\mn.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\nb.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\nl.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\pl.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\pt.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\pt_BR.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\ro.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\ru.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\sk.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\sl.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\sq.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\sr.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\sr@latin.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\sv.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\th.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\tr.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\uk.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\vi.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\zh_CN.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\i18n\\zh_TW.po": [
+        "subscription",
+        "Enterprise",
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\models\\ir_actions.py": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\models\\ir_attachment.py": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\models\\ir_module.py": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\models\\res_company.py": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\models\\res_users.py": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\models\\__pycache__\\ir_actions.cpython-310.pyc": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\models\\__pycache__\\ir_actions.cpython-312.pyc": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\models\\__pycache__\\ir_attachment.cpython-310.pyc": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\models\\__pycache__\\ir_attachment.cpython-312.pyc": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\models\\__pycache__\\ir_module.cpython-310.pyc": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\models\\__pycache__\\ir_module.cpython-312.pyc": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\models\\__pycache__\\res_users.cpython-310.pyc": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\models\\__pycache__\\res_users.cpython-312.pyc": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\tests\\test_ir_attachment.py": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\tests\\test_mail_examples.py": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\tests\\test_res_users.py": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\base\\views\\res_company_views.xml": [
+        "Enterprise"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\test_access_rights\\tests\\test_feedback.py": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\test_access_rights\\tests\\test_ir_rules.py": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\test_http\\tests\\test_static.py": [
+        "superuser",
+        "super_user"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\test_new_api\\tests\\test_new_fields.py": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\test_read_group\\tests\\test_m2m_grouping.py": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\addons\\test_testing_utilities\\tests\\test_env.py": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\__pycache__\\api.cpython-310.pyc": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\__pycache__\\api.cpython-312.pyc": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\__pycache__\\fields.cpython-310.pyc": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\__pycache__\\fields.cpython-312.pyc": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\__pycache__\\http.cpython-310.pyc": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\__pycache__\\http.cpython-312.pyc": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\__pycache__\\models.cpython-310.pyc": [
+        "superuser"
+    ],
+    "C:/Users/Albadit/Documents/GitHub/eventslight/odoo\\odoo\\__pycache__\\models.cpython-312.pyc": [
+        "superuser"
+    ]
+}
